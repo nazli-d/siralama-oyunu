@@ -35,5 +35,5 @@ Projeye star vermek için aşağıdaki adımları takip edebilirsiniz:
 
 ## Ekran Görüntüleri
 
-![Oyun Görüntüsü]([screenshots/game_screenshot1.png](https://github.com/nazli-d/siralama-oyunu/blob/main/s%C4%B1ralama.gif)https://github.com/nazli-d/siralama-oyunu/blob/main/s%C4%B1ralama.gif)
+![Oyun Görüntüsü](https://github.com/nazli-d/siralama-oyunu/blob/main/s%C4%B1ralama.gif)https://github.com/nazli-d/siralama-oyunu/blob/main/s%C4%B1ralama.gif)
 
