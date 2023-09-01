@@ -3,8 +3,6 @@
 Sıralama Oyunu, 1'den 10'a kadar olan sayıları doğru bir şekilde sıralamanızı isteyen eğlenceli bir Java oyunudur. Oyunda 10 adet buton ya da label bulunur ve bu butonların üzerinde rastgele sayılar yazmaktadır. Kullanıcının doğru sıralamayı tamamlaması için zamanla yarışması gerekmektedir. Oyun tamamlandığında kullanıcının puanı kaydedilir ve bir skor tablosu gösterilir.
  
 
-![Oyun Ekranı](screenshot.png)
-
 ## Oyun Nasıl Oynanır?
 
 1. Oyuna başladığınızda, 1'den 10'a kadar olan sayılar ekrana rastgele yerleştirilir.
@@ -25,6 +23,7 @@ Proje, Java programlama dili kullanılarak Eclipse IDE'sinde geliştirilmiştir.
 4. `main.java` dosyasını bulun ve çalıştırın.
 5.  Oyun penceresi başlayacaktır ve oynamaya başlayabilirsiniz.
 
+
 ## Katkıda Bulunma
 
 Projeye star vermek için aşağıdaki adımları takip edebilirsiniz:
@@ -36,6 +35,5 @@ Projeye star vermek için aşağıdaki adımları takip edebilirsiniz:
 
 ## Ekran Görüntüleri
 
-![Oyun Görüntüsü 1](screenshots/game_screenshot1.png)
+![Oyun Görüntüsü]([screenshots/game_screenshot1.png](https://github.com/nazli-d/siralama-oyunu/blob/main/s%C4%B1ralama.gif)https://github.com/nazli-d/siralama-oyunu/blob/main/s%C4%B1ralama.gif)
 
-![Oyun Görüntüsü 2](screenshots/game_screenshot2.png)
